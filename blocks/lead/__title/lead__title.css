@@ -1,0 +1,19 @@
+.lead__title {
+    width: 720px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px;
+    /* or 104% */
+    
+    text-align: center;  
+    color: #FFFFFF;
+    outline: 2px solid red;
+}
