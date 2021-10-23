@@ -1,8 +1,18 @@
 .cover {
-width: 1184px;
+display: flex;
+position: relative;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+max-width: 1184px;
 height: 740px;
 margin-top: 92px;
 margin-left: auto;
 margin-right: auto;
+background-color: #2A2C2F;
+opacity: 0.3;
 outline: 3px red solid;
+}
+.cover:hover {
+    opacity: 0.8; 
 }

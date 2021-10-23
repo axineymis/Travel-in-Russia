@@ -1,0 +1,12 @@
+.place__website {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    list-style: none;  
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 0;
+    width: 484px;
+    height: 152px;
+    outline: orangered solid 1px;
+}

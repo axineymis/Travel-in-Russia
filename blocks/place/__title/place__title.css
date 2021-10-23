@@ -1,0 +1,21 @@
+.place__title {
+    /* position: relative;
+display: flex;
+flex-direction: column;
+justify-content: end; */
+ width: 460px;
+height: 152px;
+margin-top: 0;
+margin-bottom: 0;
+font-family: Inter;
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 76px;
+/* or 106% */
+outline: orangered solid 1px;
+
+color: #FFFFFF;
+align-content: end;
+
+}
