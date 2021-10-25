@@ -5,7 +5,6 @@
     grid-template-rows: 1fr 460px;
     column-gap: 40px;
     row-gap: 48px;
-    
     outline: orangered solid 1px;
 
 }
@@ -21,13 +20,10 @@
         .place {
             grid-template-columns: 340px 1fr;
             grid-template-rows: 1fr 340px;
-          
         }
     }
         @media screen and (max-width: 320px) {
             .place {
-                grid-template-columns: 320px 1fr;
-                grid-template-rows: 1fr 320px;  
                 grid-template-columns: repeat(auto-fill, 320px);
             }
         }

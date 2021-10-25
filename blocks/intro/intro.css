@@ -1,7 +1,6 @@
 .intro {
     position: relative;
     max-width: 984px;
-    
     margin-top: 92px;
     margin-left: auto;
     margin-right: auto;
@@ -18,6 +17,5 @@
         .intro {
           margin-top: 64px; 
           width: calc(100% - 32px);
-          
         }
         }  
