@@ -11,7 +11,7 @@ flex-direction: column;
 align-items: center;
 justify-content: center;
 position: relative;
-outline: 3px red solid;
+/* outline: 3px red solid; */
 margin-top: 92px; 
 }
 
