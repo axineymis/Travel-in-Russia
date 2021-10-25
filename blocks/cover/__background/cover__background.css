@@ -1,5 +1,17 @@
 .cover__background {
-position: absolute;
+
+
+
+
+
+
+
+
+
+
+
+    
+/* position: absolute;
 width: 1184px;
 height: 740px;
 background-image: url("../../../images/cover-trains.jpg");
@@ -8,5 +20,5 @@ background-image: url("../../../images/cover-trains.jpg");
     content: '';
     background: #2A2C2F;
     opacity: 0.3;
-    position: absolute;
+    position: absolute; */
 }
