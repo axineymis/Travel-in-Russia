@@ -1,6 +1,6 @@
 .cover {
 background-image: url("../../images/cover-trains.jpg");
-width: 90vw;
+max-width: 1184px;
 height: 62.5vw;
 background-size: cover;
 background-position: center;
@@ -29,4 +29,11 @@ right: 0;
 .cover:hover::before {
     opacity: 0.8;
 }
+
+@media screen and (max-width: 320px) {
+    .footer {
+      flex-direction: column;
+      margin-top: 62px;
+    }
+    }  
 

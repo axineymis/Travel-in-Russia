@@ -19,12 +19,17 @@
     @media screen and (max-width: 768px) {
         .place {
             grid-template-columns: 340px 1fr;
-            grid-template-rows: 1fr 340px;
+            grid-template-rows: 1fr auto;
         }
     }
         @media screen and (max-width: 320px) {
             .place {
                 grid-template-columns: repeat(auto-fill, 320px);
+               
+                align-items: start;
+                justify-content: start;
+                align-self: start;
+               
             }
         }
 
