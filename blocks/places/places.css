@@ -10,8 +10,7 @@
 
 @media screen and (max-width: 320px) {
     .places {
-        margin-top: 64px;  
-        
+        margin-top: 64px;
         justify-content: start;
         align-self: start;
     }
